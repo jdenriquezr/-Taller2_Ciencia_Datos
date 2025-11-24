@@ -18,7 +18,7 @@ python3 -m venv venv_apto
 2. Activarlo:
 
 * **Linux/Mac:**
-   * 
+  
   ```bash
      
    source venv_hotel/bin/activate
