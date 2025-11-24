@@ -21,13 +21,13 @@ python3 -m venv venv_apto
   
   ```bash
      
-   source venv_hotel/bin/activate
+   source venv_apto/bin/activate
    
   ```
      
 * **Windows:** 
 ```bash
-   venv_hotel\Scripts\activate
+   venv_aptol\Scripts\activate
 ```
 3. Instalar dependencias:
 
