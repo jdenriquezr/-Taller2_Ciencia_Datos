@@ -17,24 +17,23 @@ python3 -m venv venv_apto
 
 2. Activarlo:
 
-
    * **Linux/Mac:**
    * 
   ```bash
      
    source venv_hotel/bin/activate
    
-     ```
+  ```
      
   * **Windows:** 
 ```bash
    venv_hotel\Scripts\activate
-     ```
+```
 3. Instalar dependencias:
 
 ```bash
    pip install -r requirements.txt
-   ```
+```
 ## En el repositorio se encuentra:
 
 1. Informe ejecutivo con el nombre: Informe ejecutivo-taller2CDA_jenriquez_lmbejarano.pptx
