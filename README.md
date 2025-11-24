@@ -20,10 +20,10 @@ python3 -m venv venv_apto
    * ```bash
    source venv_hotel/bin/activate
      ```
-   * **Windows:** 
+  * **Windows:** 
    * ```bash
    venv_hotel\Scripts\activate
-   * ```
+     ```
 3. Instalar dependencias:
 ```bash
    pip install -r requirements.txt
