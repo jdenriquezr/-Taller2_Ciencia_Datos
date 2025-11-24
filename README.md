@@ -1,4 +1,4 @@
-### Taller 1 Cadena hotelera Integrantes:
+### Taller 2 Integrantes:
 
 Juan Diego Enriquez
 Lina Maria Bejarano
@@ -10,24 +10,30 @@ Diseñar un modelo de Machine Learning para predecir el valor de los apartamento
 
 1. Crear entorno virtual:
 ```bash
+
 python3 -m venv venv_apto
+
 ```
 
 2. Activarlo:
 
-
-   * **Linux/Mac:** 
-   * ```bash
-   source venv_hotel/bin/activate
-     ```
-   * **Windows:** 
-   * ```bash
-   venv_hotel\Scripts\activate
-   * ```
+* **Linux/Mac:**
+  
+  ```bash
+     
+   source venv_apto/bin/activate
+   
+  ```
+     
+* **Windows:** 
+```bash
+   venv_aptol\Scripts\activate
+```
 3. Instalar dependencias:
+
 ```bash
    pip install -r requirements.txt
-   ```
+```
 ## En el repositorio se encuentra:
 
 1. Informe ejecutivo con el nombre: Informe ejecutivo-taller2CDA_jenriquez_lmbejarano.pptx
