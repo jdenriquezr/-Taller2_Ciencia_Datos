@@ -10,21 +10,28 @@ Diseñar un modelo de Machine Learning para predecir el valor de los apartamento
 
 1. Crear entorno virtual:
 ```bash
+
 python3 -m venv venv_apto
+
 ```
 
 2. Activarlo:
 
 
-   * **Linux/Mac:** 
-   * ```bash
+   * **Linux/Mac:**
+   * 
+  ```bash
+     
    source venv_hotel/bin/activate
+   
      ```
+     
   * **Windows:** 
-   * ```bash
+```bash
    venv_hotel\Scripts\activate
      ```
 3. Instalar dependencias:
+
 ```bash
    pip install -r requirements.txt
    ```
