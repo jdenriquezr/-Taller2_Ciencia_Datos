@@ -1,4 +1,4 @@
-### Taller 1 Cadena hotelera Integrantes:
+### Taller 2 Integrantes:
 
 Juan Diego Enriquez
 Lina Maria Bejarano
